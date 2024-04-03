@@ -1,12 +1,9 @@
-```Welcome to the Raspberry Client
-Developed by samxCoding! (Worked on with LSxring)
-Notice: 
-Windows versions will always come after the MacOS Version.
-This is a project coded on C++ and I will be trying to upload files but other than this there will be a Tiktok video how to install the project!
-I made this project cause games on roblox that people play on Macos, lag a bit so I made this client but becareful with this modfication.
+### Setup
 
-But it's not just me who made this project.
-SxnsetCoding who recently got taken by a Roblox Game Developement Team, named WolfArc Studios.
-```
+``` When you launch the RaspberryClient or RaspberryClientx64, Run the specific version. ```
+### During Setup
+``` Follow the instructions in the console. The console will do most of the parts. ```
 
-### Download now! 
+### Finished!
+## Disabling the Client
+``` If you want to disable the client, then quit Roblox. After that, If you are not using Version 0.8 then your pack will WILL NOT contain ModiferPack. Raspberry Client will automaticly close. ```
