@@ -1,9 +1,11 @@
-### Setup
+### INSTALLATION PROCESS
+First copy the command below and paste it into the console
+```None```
+Second Command:
+```There is no second command lol```
+### After Commands
+Raspberry will INSTALL new parts of the Roblox Launcher or RobloxPlayer.
+HOMEBREW ISN'T REQUIRED!!
+People have said that it is BUT IT IS NOT! Homebrew keep on crashing Raspberry Client, causing Raspberry Client to NOT work.
 
-``` When you launch the RaspberryClient or RaspberryClientx64, Run the specific version. ```
-### During Setup
-``` Follow the instructions in the console. The console will do most of the parts. ```
-
-### Finished!
-## Disabling the Client
-``` If you want to disable the client, then quit Roblox. After that, If you are not using Version 0.8 then your pack will WILL NOT contain ModiferPack. Raspberry Client will automaticly close. ```
+Thanks for using Raspberry Client!!!
