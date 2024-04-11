@@ -2,10 +2,9 @@
 
 
 ### INSTALLATION PROCESS
-First copy the command below and paste it into the console
-```None```
-Second Command:
-```There is no second command lol```
+1.```None```
+Complete! 
+If you want to do a FASTER installation, in the 0.72 (Maybe not released yet...) add the Roblox Item into the folder.
 ### After Commands
 Raspberry will INSTALL new parts of the Roblox Launcher or RobloxPlayer.
 HOMEBREW ISN'T REQUIRED!!
