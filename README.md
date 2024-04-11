@@ -12,7 +12,7 @@ HOMEBREW ISN'T REQUIRED!!
 People have said that it is BUT IT IS NOT! Homebrew makes crashes Raspberry Client, causing Raspberry Client to NOT work.
 ### Modules
 MaveDEX by pada!
-Command: $MaveDex
+Command: ```$MaveDex```
 
 
 Thanks for using Raspberry Client!!!
